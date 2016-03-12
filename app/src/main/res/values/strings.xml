@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="action_refresh" >Refrescar</string>
+    <string name="action_map" >Localización</string>
+    <string name="action_share" >Compartir</string>
+
+    <string name="title_activity_detalle_pronostico">Detalle Pronóstico</string>
+    <string name="pref_location_key" transatable="false">localizacion</string>
+    <string name="pref_location_label">Localización</string>
+    <string name="pref_location_default" transatable="false">Ecuador,Loja</string>
+    <string name="pref_units_key" transatable="false">temp</string>
+    <string name="pref_units_label">Unidad de Temperatura</string>
+    <string name="pref_units_metric" transatable="false">metric</string>
+    <string name="pref_units_summary">Unidad de Temperatura</string>
+</resources>
+
